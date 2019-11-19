@@ -1,42 +1,24 @@
-﻿# [RK3368](https://github.com/mcuyun/RK3368) 
+﻿# [RK3588](https://github.com/mcuyun/RK3588) 
 
-[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.qitas.cn) 
 
-#### 归属：[cortex A53系列](https://github.com/mcuyun/CA53)
-#### [关于悠云](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+#### [Vendor](https://github.com/sochub/Vendor)：[rock-chips](https://github.com/sochub/rockchips)
+#### [MIPS](https://github.com/sochub/MIPS)：[cortex A76 + A55](https://github.com/sochub/CA76)
+#### [Level](https://github.com/sochub/Level)：
 
-## [简介](https://github.com/mcuyun/RK3368/wiki)
+## [芯片描述](https://github.com/sochub/RK3588/wiki) 
 
-2015CES发布，采用ARM Cortex-A53 八核心，主频最高1.5GHz，GPU为PowerVR G6110，Antutu跑分达35000
-
-
-
-主要特点：双路SDIO 3.0
-
-功能特点：HDMI 2.0、8M ISP
-
-主要短板：USB
-
-封装：BGA453( 19X19, 0.8mm pitch)
-
-### [瑞芯微平台](https://github.com/mcuyun/rockchips)
-
-平台相关资料
-
-#### [linux系统](https://github.com/rockchip-linux/kernel.git)
-
-开源Linux系统固件
-
-#### [参考资料](docs/)
-
-包括芯片相关资料
- 
+[RK3588](https://github.com/mcuyun/RK3588) 采用8nm制程工艺，采用ARM A76+A55的大小核架构，内置独立的NPU2.0，支持8K VPU，在视频编码和解码方面将会有质的提升
 
 
----
+### [资源收录](https://github.com/sochub/RK3588)
 
-###  [悠云，为嵌入式](http://www.mcuyun.com)   
-###  qitas@qitas.cn
+* [文档](docs/) 
+* [linux系统](linux/)
 
 
+### [选型建议](https://github.com/sochub)
 
+[RK3588](https://github.com/mcuyun/RK3588)竞品包括 Realtek RTD2893和MTK S900
+
+###  [SoC资源平台](http://www.qitas.cn)   
